@@ -20,7 +20,6 @@ Bitxel Roads is a blockchain-based racing game that combines traditional gaming 
 3. **BitxelRoadsGame**
    - Core game mechanics
    - Race management
-   - Reward distribution
    - Tournament system
 
 4. **BitxelRoadsRewards**
