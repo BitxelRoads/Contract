@@ -78,8 +78,8 @@ All rights reserved. The code in this repository is proprietary and confidential
 Currently, this is a private repository. Contributions are by invitation only.
 
 ## 🔗 Links
-- [Website](https://bitxelroads.com)
-- [Documentation](https://bitxel-roads-trading-cards.gitbook.io/bitxel-roads-trading-cards/collection-concept)
+- [Website](https://bitxelroads.xyz)
+- [WhitePaper](https://bitxel-roads-trading-cards.gitbook.io/bitxel-roads-trading-cards/collection-concept)
 - [Twitter](https://twitter.com/BitxelRoads)
 
 ## 📞 Contact
