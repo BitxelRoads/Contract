@@ -79,7 +79,7 @@ Currently, this is a private repository. Contributions are by invitation only.
 
 ## 🔗 Links
 - [Website](https://bitxelroads.com)
-- [Documentation]((https://bitxel-roads-trading-cards.gitbook.io/bitxel-roads-trading-cards/collection-concept))
+- [Documentation](https://bitxel-roads-trading-cards.gitbook.io/bitxel-roads-trading-cards/collection-concept)
 - [Twitter](https://twitter.com/BitxelRoads)
 
 ## 📞 Contact
