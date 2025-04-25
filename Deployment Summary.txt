@@ -1,6 +1,8 @@
-Deployment Summary:
--------------------
-Network: baseSepolia
-Token Address: 0x2192678cb60624C90a658E9b6bcba4d3DF4B0647
-Owner Address: 0x0DCED0425De98AC306c1D7b335509433A618B565
-Total Supply: 40000000000.0 BTRD
+{
+  "tokenAddress": "0xafa8dA93d77E64D7a8275EBaD623c7ED9430B40D",
+  "deployer": "0x7b8B2a6f8904DA8D5e768B8C892df394692C348F",
+  "baseFee": "0.0042",
+  "priorityFee": "0.0001",
+  "network": "base-mainnet",
+  "timestamp": "2025-04-25T04:52:13.735Z"
+}
