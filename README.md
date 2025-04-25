@@ -8,7 +8,7 @@ Bitxel Roads is a blockchain-based racing game that combines traditional gaming 
 ### Core Contracts
 1. **BitxelRoadsToken (BTRD)**
    - ERC20 token implementation
-   - Total Supply: 1,000,000,000 BTRD
+   - Total Supply: 40,000,000,000 BTRD
    - Features: Pausable, Burnable
    - Network: Base (Coinbase L2)
 
