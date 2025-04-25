@@ -84,3 +84,5 @@ Currently, this is a private repository. Contributions are by invitation only.
 
 ## 📞 Contact
 For any queries regarding the smart contracts, please reach out to the development team through official channels.
+
+## ☕ Buy me a coffee 0x69da208Cd6bE6cc17D394A562910310a8D4fc8c2
