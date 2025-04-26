@@ -35,12 +35,9 @@ Bitxel Roads is a blockchain-based racing game that combines traditional gaming 
 
 ## 🚀 Deployment Information
 
-### Base Sepolia (Testnet)
+### Base Mainnet
 - BitxelRoadsToken: `0xafa8da93d77e64d7a8275ebad623c7ed9430b40d`
 - Owner: `0x64Ed97E6b5b35A6F0c8A3C4eE619af801600181A`
-
-### Base Mainnet
-- Contracts pending deployment
 
 ## 🔐 Security Features
 - Ownable pattern implementation
